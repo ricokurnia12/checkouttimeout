@@ -9,7 +9,7 @@ function App() {
           <h1>Waktu checkout anda telah habis</h1>
           <h3>silahkan melakukan pendaftaran kembali</h3>
         </div>
-        <img className="mb-2" src={Timeout} />
+        <img className="mb-2" src={Timeout} alt="ganesha operation" />
       </div>
     </div>
   );
